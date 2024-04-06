@@ -1,7 +1,7 @@
 # BlenderKeymap-Industry-Compatible-Navigation-and-Transform
 _Note: I was used to other software navigation and transform so switching to Blender was a struggle. Couldn't change to their Industry Compatible keymap because it's not applicable when watching tutorials. I couldn't find a keymap that only changed these hotkeys, so here goes. Hope this help~_
 
-## This keymap adjust some hotkeys for:
+## This keymap adjusts some hotkeys for:
 
 ### 3D space navigation
 Pan: Alt + Middle mouse <br />
@@ -28,4 +28,5 @@ Right resize region: Ctrl + ]  <br />
 
 ### Other hotkeys are based on Blender 4.0's keymap. <br />
 
-
+## How to add keymap:
+Blender>Edit>Preferences>Keymap>Import button>Select .py file>Burger icon>Save preferences
