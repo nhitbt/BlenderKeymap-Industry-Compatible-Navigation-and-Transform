@@ -1,5 +1,5 @@
 # BlenderKeymap-Industry-Compatible-Navigation-and-Transform
-_Note: I was used to other software navigation and transform so switching to Blender was a struggle. Couldn't change to their Industry Compatible keymap because it's not applicable when watching tutorials. I couldn't find a keymap that only changed these hotkeys, so here goes. Hope this help~_
+_Note: I was used to other software navigation and transform so switching to Blender was a struggle. Couldn't change to their Industry Compatible keymap because it's not applicable when watching tutorials. I couldn't find a keymap that only changed these hotkeys, so here goes. Hope this help._
 
 ## This keymap adjusts some hotkeys for:
 
